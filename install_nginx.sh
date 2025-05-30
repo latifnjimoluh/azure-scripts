@@ -10,4 +10,4 @@ server {
     }
 }
 EOF
-systemctl status nginx
+systemctl restart nginx
