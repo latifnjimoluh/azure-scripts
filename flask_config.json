@@ -1,0 +1,6 @@
+{
+  "fileUris": [
+    "https://raw.githubusercontent.com/latifnjimoluh/azure-scripts/main/install_flask.sh"
+  ],
+  "commandToExecute": "bash install_flask.sh"
+}
