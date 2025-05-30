@@ -1,0 +1,6 @@
+{
+  "fileUris": [
+    "https://raw.githubusercontent.com/latifnjimoluh/azure-scripts/refs/heads/main/install_nginx.sh"
+  ],
+  "commandToExecute": "bash install_nginx.sh"
+}
